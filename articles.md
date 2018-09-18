@@ -4,10 +4,12 @@ title: Articles
 permalink: /articles/
 ---
 
+These 
+
+Ones
+
+or
+
 ## Academic
-
-This one
-
-## Non-academic
 
 That one
