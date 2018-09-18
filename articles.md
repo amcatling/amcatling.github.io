@@ -4,12 +4,15 @@ title: Articles
 permalink: /articles/
 ---
 
-These 
+"Wikitongues article."
 
-Ones
+[How to get picked up by a robot](https://voxnewspaperleiden.wordpress.com/2018/02/14/how-to-get-picked-up-by-a-robot/). _VOX Leiden, 14 Feb 2018_
 
-or
+[Dutch diamonds are being made from pollution](https://voxnewspaperleiden.wordpress.com/2017/11/17/dutch-diamonds-are-being-made-from-pollution/). _VOX Leiden, 17 Nov 2017_
 
-## Academic
 
-That one
+# Academic
+
+"SAL one"
+
+"Lang Teach & Learning"
