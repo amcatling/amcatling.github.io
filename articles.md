@@ -11,7 +11,7 @@ permalink: /articles/
 [Dutch diamonds are being made from pollution](https://voxnewspaperleiden.wordpress.com/2017/11/17/dutch-diamonds-are-being-made-from-pollution/). _VOX Leiden, 17 Nov 2017_
 
 
-# Academic
+### Academic
 
 "SAL one"
 
