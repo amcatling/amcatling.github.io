@@ -16,6 +16,6 @@ I am conducting research about the perception of 'correctness' in international 
 
 #### Wikitongues 
 
-Since 2016 I have volunteered for language rights charity Wikitongues, being a part of the content and social team. I added [this video of Iraqw](https://www.youtube.com/watch?v=4j9xBWlMUqA) to the collection of documented languages. 
+Since 2016, I have volunteered for language rights charity Wikitongues, being a part of the content and social team. I added [this video of Iraqw](https://www.youtube.com/watch?v=4j9xBWlMUqA) to the collection of documented languages. 
 
 
