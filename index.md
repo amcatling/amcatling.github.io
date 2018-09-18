@@ -4,7 +4,7 @@ title: Hello,
 permalink: //
 ---
 
-I have over 3 year's editorial experience and a Linguistics MA, _cum laude_, from Universiteit Leiden. My research specialised in language and communcation, in particular on pragmatics and second language acquisition. I spent 9 months as a Research Assistant working within the African Linguistics department, and took part in fieldwork in Tanzania to collect data on the Iraqw language. 
+I have over 3 year's editorial experience and a Linguistics MA, _cum laude_, from Universiteit Leiden. I have a 1st class BA in Linguistics from the University of Sheffield. My research specialised in language and communcation, in particular on second language acquisition and pragmatics. I spent 9 months as a Research Assistant working within the African Linguistics department, and took part in fieldwork in Tanzania to collect data on the Iraqw language. 
 
 I was Co-Editor in Chief of VOX Leiden, the international student's digital newspaper, and have been working as a Freelance Editor for over 1 year.
 
