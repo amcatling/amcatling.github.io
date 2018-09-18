@@ -1,10 +1,8 @@
 ---
 layout: page
-title:
+title: Hello, a bit about me:
 permalink: //
 ---
-
-# Hello, a bit about me:
 
 I have over 3 year's editorial experience, and a Linguistics MA, _cum laude_ from Leiden Universiteit. My research specialised in language and communcation, in particular on pragmatics and second language acquisition. I spent 9 months as a Research Assistant working within the African Linguistics department, and took part in fieldwork in Tanzania to collect data on the Iraqw language. 
 
