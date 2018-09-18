@@ -13,4 +13,4 @@ The purpose of this portfolio is to document my ongoing linguistic projects.
 
 ### Contact me
 
-[Need to know more? Email me.](mailto:amcatling@gmail.com)
+Need to know more? [Email me.](mailto:amcatling@gmail.com)
