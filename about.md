@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I have over 3 year's editorial experience, and a Linguistics MA, _Cum Laude_ from Leiden Universiteit. My research specialised in language and communcation, in particular on pragmatics and second language acquisition. I spent 9 months as a Research Assistant working within the African Linguistics department, and took part in fieldwork in Tanzania to collect data on the Iraqw language. 
 
-### More Information
+I was Co-Editor in Chief of VOX Leiden, the international student's digital newspaper, and have been working as a Freelance Editor for over 1 year.
 
-A place to include any other types of information that you'd like to include about yourself.
+The purpose of this portfolio is to document my ongoing linguistic projects. 
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Email me here for my full CV](mailto:amcatling@gmail.com)
