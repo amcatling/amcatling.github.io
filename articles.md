@@ -6,7 +6,7 @@ permalink: /articles/
 
 #### Academic Publications
 
-[Using a discourse adverb to correct expectations: An analysis of Mak in Iraqw](https://journals.flvc.org/sal/article/view/118042/116006) with Maarten Mous, published in Studies in African Linguistics
+[Using a discourse adverb to correct expectations: An analysis of Mak in Iraqw](https://journals.flvc.org/sal/article/view/118042/116006) with Maarten Mous, published in *Studies in African Linguistics, November 2019*
 
 
 #### Interest Pieces
