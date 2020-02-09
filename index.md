@@ -4,7 +4,7 @@ title: Hello!
 permalink: //
 ---
 
-I'm a Localisation Manager based in London, with an interest in Computational Linguistics. 
+I'm a Localisation Manager based in London, with an interest in computational linguistics. 
 
 I have an MA in Linguistics, and previously worked as a Research Assistant in African Linguistics. I like languages, and working to localise from English into 14 others. 
 
